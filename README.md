@@ -7,7 +7,7 @@
   - rojinroy:poddery.com on the Matrix network
   - rojinroy on poddery.com server on XMPP
   - rojin on freenode and OFTC IRC networks
-
+- My [Resume](RojinRoy.pdf)
 <!---
 rojinmroy/rojinmroy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
